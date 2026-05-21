@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23614142)
+=======
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23511052)
+>>>>>>> d225519092d73ac02e1c4541e37365877231f1d1
 # Recursion and Algorithms Lab
 
 This GitHub Classroom lab is for **Module 5: Recursion + Algorithms**.
